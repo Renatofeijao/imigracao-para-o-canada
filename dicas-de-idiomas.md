@@ -28,6 +28,10 @@ Aqui você encontra muitos os links, dicas, aplicativos, sites, para lhe ajudar 
 2. [Presto English Learning (CELPIP/IELTS/VOCABULARY](https://www.youtube.com/c/PrestoEnglish).
 
 ### IELTS
+1. [Prepare Ielts (Ielts Simulate)](https://takeielts.britishcouncil.org/take-ielts/prepare).
+2. [BBC Learning English - British Language](https://www.bbc.co.uk/learningenglish).
+
+
 
 ## Francês
 ### Tudo o que você precisa para um estudo independente da língua francesa.
